@@ -9,8 +9,8 @@
         <license_category>none</license_category>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="adriana global 1">5522ffd4530100105e97ddeeff7b124b</menu>
-        <name>adriana global 1</name>
+        <menu display_value="GlobalAppRepoImport">5522ffd4530100105e97ddeeff7b124b</menu>
+        <name>GlobalAppRepoImport</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
